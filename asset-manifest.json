@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abdallahelmesery213/weather-app/static/css/main.c2bd9b95.chunk.css",
+    "main.js": "/Abdallahelmesery213/weather-app/static/js/main.da6e33a8.chunk.js",
+    "main.js.map": "/Abdallahelmesery213/weather-app/static/js/main.da6e33a8.chunk.js.map",
+    "runtime-main.js": "/Abdallahelmesery213/weather-app/static/js/runtime-main.327dff45.js",
+    "runtime-main.js.map": "/Abdallahelmesery213/weather-app/static/js/runtime-main.327dff45.js.map",
+    "static/js/2.5a3d84ac.chunk.js": "/Abdallahelmesery213/weather-app/static/js/2.5a3d84ac.chunk.js",
+    "static/js/2.5a3d84ac.chunk.js.map": "/Abdallahelmesery213/weather-app/static/js/2.5a3d84ac.chunk.js.map",
+    "static/js/3.5c91254e.chunk.js": "/Abdallahelmesery213/weather-app/static/js/3.5c91254e.chunk.js",
+    "static/js/3.5c91254e.chunk.js.map": "/Abdallahelmesery213/weather-app/static/js/3.5c91254e.chunk.js.map",
+    "index.html": "/Abdallahelmesery213/weather-app/index.html",
+    "static/css/main.c2bd9b95.chunk.css.map": "/Abdallahelmesery213/weather-app/static/css/main.c2bd9b95.chunk.css.map",
+    "static/js/2.5a3d84ac.chunk.js.LICENSE.txt": "/Abdallahelmesery213/weather-app/static/js/2.5a3d84ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.327dff45.js",
+    "static/js/2.5a3d84ac.chunk.js",
+    "static/css/main.c2bd9b95.chunk.css",
+    "static/js/main.da6e33a8.chunk.js"
+  ]
+}
